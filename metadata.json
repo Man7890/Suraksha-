@@ -1,0 +1,6 @@
+{
+  "name": "SURAKSHA – Multi-Hazard Red Zone Mapping & Safe Relocation Platform",
+  "description": "Intelligent GIS-enabled decision support platform for multi-hazard red zone detection, carrying capacity assessment, and priority relocation planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
